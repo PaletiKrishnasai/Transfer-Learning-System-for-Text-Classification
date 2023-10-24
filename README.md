@@ -1,4 +1,4 @@
-# PromptTuning
+# Transfer-Learning-System-for-Text-Classification
 
 This repository contains the codebase for prompt-based finetuning of RoBERTa-Large on a series of tasks with multiple prompts used for each task.
 
